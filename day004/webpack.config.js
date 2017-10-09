@@ -6,10 +6,11 @@ const HtmlWebpackPluginConfig = new HtmlWebpackPlugin({
   filename: 'app.html',
   inject: 'body'
 })
+
 module.exports = {
   entry: './src/index.js',
   output: {
-    path: path.join(__dirname, 'public'),
+    path: path.join(__dirname, 'dist'),
     filename: 'app.bundle.js'
   },
   module: {
