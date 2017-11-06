@@ -1,0 +1,10 @@
+C:\Workplace\valdir\dev-study\day008\app\bin\Debug\netcoreapp2.0\app.deps.json
+C:\Workplace\valdir\dev-study\day008\app\bin\Debug\netcoreapp2.0\app.runtimeconfig.json
+C:\Workplace\valdir\dev-study\day008\app\bin\Debug\netcoreapp2.0\app.runtimeconfig.dev.json
+C:\Workplace\valdir\dev-study\day008\app\bin\Debug\netcoreapp2.0\app.dll
+C:\Workplace\valdir\dev-study\day008\app\bin\Debug\netcoreapp2.0\app.pdb
+C:\Workplace\valdir\dev-study\day008\app\obj\Debug\netcoreapp2.0\app.csproj.CoreCompileInputs.cache
+C:\Workplace\valdir\dev-study\day008\app\obj\Debug\netcoreapp2.0\app.AssemblyInfoInputs.cache
+C:\Workplace\valdir\dev-study\day008\app\obj\Debug\netcoreapp2.0\app.AssemblyInfo.cs
+C:\Workplace\valdir\dev-study\day008\app\obj\Debug\netcoreapp2.0\app.dll
+C:\Workplace\valdir\dev-study\day008\app\obj\Debug\netcoreapp2.0\app.pdb
